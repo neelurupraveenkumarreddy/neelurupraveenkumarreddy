@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neelurupraveenkumarreddy
 - 👀 I’m interested in contributing open source
-- 🌱 I’m currently learning OOP in python
-- 💞️ I’m looking to collaborate on anything that relates with python
+- 🌱 I’m currently learning reactjs
+- 💞️ I’m looking to collaborate on anything that relates with web development
 - 📫 How to reach me mail me
 
 <!---
